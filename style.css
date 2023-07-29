@@ -1,17 +1,20 @@
-body {
+ body {
     font-family: Arial, sans-serif;
-    line-height: 1.0;
+    line-height: 1.6;
     margin: 0;
     padding: 0;
+    background-color: #f8f8f8;
   }
   
-  p {
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  header {
     background-color: #333;
-    color: #fff;
     text-align: center;
   }
- 
-  
-
-
-  
+  a {
+    color: #ec1414;
+    font-weight: bold;
+  }
